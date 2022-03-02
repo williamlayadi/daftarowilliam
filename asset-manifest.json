@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/daftarowilliam/static/css/main.edebb114.css",
+    "main.js": "/daftarowilliam/static/js/main.d2719d11.js",
+    "static/js/787.936f1c33.chunk.js": "/daftarowilliam/static/js/787.936f1c33.chunk.js",
+    "static/media/header1.jpg": "/daftarowilliam/static/media/header1.81c032fba4c413efa888.jpg",
+    "static/media/testi3.jpg": "/daftarowilliam/static/media/testi3.025dd04f139a9dffbc29.jpg",
+    "static/media/img3.jpg": "/daftarowilliam/static/media/img3.901dd29ebdee903d4cc1.jpg",
+    "static/media/testi1.jpg": "/daftarowilliam/static/media/testi1.dfe7909b6550febd954c.jpg",
+    "static/media/testi2.jpg": "/daftarowilliam/static/media/testi2.bdea0d7e297c6e94fee7.jpg",
+    "static/media/img1.jpg": "/daftarowilliam/static/media/img1.c0819d9aefc8d20cfac5.jpg",
+    "static/media/service2.jpg": "/daftarowilliam/static/media/service2.08a12f6b80b673a01bd2.jpg",
+    "static/media/health1.jpg": "/daftarowilliam/static/media/health1.414afe32cdcfa60df94d.jpg",
+    "static/media/img2.jpg": "/daftarowilliam/static/media/img2.539a8c5c50b965822984.jpg",
+    "static/media/health2.jpg": "/daftarowilliam/static/media/health2.e710e31c2da7e745c627.jpg",
+    "static/media/daftarologo1.png": "/daftarowilliam/static/media/daftarologo1.75af756297469ba01e31.png",
+    "static/media/service3.jpg": "/daftarowilliam/static/media/service3.0235ab38b4780baa5277.jpg",
+    "static/media/service1.jpg": "/daftarowilliam/static/media/service1.695a44e3b4825fa54643.jpg",
+    "static/media/health3.jpg": "/daftarowilliam/static/media/health3.7514ac4cc22af5b655f3.jpg",
+    "static/media/header2.jpg": "/daftarowilliam/static/media/header2.f7284548e798e9e1b2dc.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/daftarowilliam/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/header3.jpg": "/daftarowilliam/static/media/header3.6d9bc91dcc04268594bc.jpg",
+    "static/media/fontawesome-webfont.eot": "/daftarowilliam/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/daftarowilliam/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/daftarowilliam/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/daftarowilliam/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/playstore.png": "/daftarowilliam/static/media/playstore.13959e96af74d0a9ae8b.png",
+    "static/media/appgallery.png": "/daftarowilliam/static/media/appgallery.5ed87ea5d7a7453b29b8.png",
+    "static/media/logo.svg": "/daftarowilliam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/daftarowilliam/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/daftarowilliam/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/daftarowilliam/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/daftarowilliam/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/daftarowilliam/index.html",
+    "main.edebb114.css.map": "/daftarowilliam/static/css/main.edebb114.css.map",
+    "main.d2719d11.js.map": "/daftarowilliam/static/js/main.d2719d11.js.map",
+    "787.936f1c33.chunk.js.map": "/daftarowilliam/static/js/787.936f1c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edebb114.css",
+    "static/js/main.d2719d11.js"
+  ]
+}
